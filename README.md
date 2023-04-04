@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/i-am-faith/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Trying+to+learn+new+things;Programming+%26+Website Making+is+%E2%9D%A4;I'm+currently+learning+React.js;Reach+me%3A+INSTA%3A(%40i_am_faith_007)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/Sidhant-raj/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Trying+to+learn+new+things;Programming+%26+Website Making+is+%E2%9D%A4;I'm+currently+learning+React.js;Reach+me%3A+INSTA%3A(%40i_am_faith_007)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
