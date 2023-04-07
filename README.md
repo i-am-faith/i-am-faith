@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=28&pause=1000&color=2FE7F7&center=true&vCenter=true&width=435&lines=Front-End+Web+Devoloper;Trying+To+Learn+New+Things;CP+%26+Website+Making+Is+Love+%E2%9D%A4%EF%B8%8F;Currently+Learning+React.js;Insta+(+i_am_faith_007)++%3A)" alt="Typing SVG" /></a>
 </p>
