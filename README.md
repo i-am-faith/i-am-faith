@@ -27,7 +27,7 @@
 <!-- new -->
 
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=suvramukherjee842&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+<div style="align: center;"><img height="auto" src="https://komarev.com/ghpvc/?username=suvramukherjee842&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" /></div>
 
 
 
