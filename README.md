@@ -50,7 +50,7 @@
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=suvramukherjee842&show_icons=true&theme=cobalt&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
-
+<br>
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=suvramukherjee842&theme=synthwave&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
 
