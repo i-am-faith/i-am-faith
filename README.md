@@ -48,7 +48,7 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=suvramukherjee842&show_icons=true&theme=cobalt&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=tokyonight&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
 <br>
