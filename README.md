@@ -31,9 +31,6 @@
 
 
 
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
-
-
 
 
 - 🌱 I’m currently learning **Web Development**
