@@ -56,5 +56,5 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvramukherjee842&theme=synthwave&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-faith&theme=tokyonight&hide_border=false" alt="profile-radme-generator" />
 
