@@ -27,6 +27,14 @@
 <!-- new -->
 
 
+<img height="auto" src="https://komarev.com/ghpvc/?username=suvramukherjee842&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+
+
+
+<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
+
+
+
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -51,3 +59,4 @@
 
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvramukherjee842&theme=synthwave&hide_border=false" alt="profile-radme-generator" />
+
