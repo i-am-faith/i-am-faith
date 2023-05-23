@@ -48,11 +48,11 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=tokyonight&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=radical&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
 <br>
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=suvramukherjee842&theme=synthwave&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-faith&theme=synthwave&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
 
 
