@@ -37,7 +37,7 @@
 
 - 💬 Ask me about **HTML CSS**
 
-- 😂 Func Fact **Bats are the only mammal that can actually fly.**
+- 😂 Fun Fact **Bats are the only mammal that can actually fly.**
 
 - 📫 How to reach me **2105833@kiit.ac.in**
 
