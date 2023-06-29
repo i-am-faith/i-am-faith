@@ -23,16 +23,18 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://reayou.club//#/register?r_code=60C6C571"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+<hr>
 
 <!-- new -->
 
-
-<div style="align: center;"><img height="auto" src="https://komarev.com/ghpvc/?username=i-am-faith&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" /></div>
-
-
-
+<div style="text-align: center; width: 50px; height: 50px;">
+<img height="auto" src="https://komarev.com/ghpvc/?username=i-am-faith&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
+</div>div>
 
 
+
+
+<hr>
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML CSS JS**
