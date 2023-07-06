@@ -32,6 +32,7 @@
 
 <!-- new -->
 
+<!-- profile view -->
 <div style="text-align: center; width: 50px; height: 50px;">
 <img height="auto" src="https://komarev.com/ghpvc/?username=i-am-faith&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 </div>
