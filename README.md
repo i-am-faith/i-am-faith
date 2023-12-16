@@ -38,6 +38,7 @@
 </div>
 
 
+
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML CSS JS**
@@ -62,7 +63,5 @@
 
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-faith&theme=tokyonight&hide_border=false" alt="profile-radme-generator" />
-<hr>
 
-## Watch out! There is a snake
-![snake gif](https://github.com/i-am-faith/i-am-faith/blob/output/github-contribution-grid-snake.svg)
+
