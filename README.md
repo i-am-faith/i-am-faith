@@ -1,7 +1,6 @@
-<h3 align="center">
-  Welcome to Sourin Mukherjee's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sourin%20Mukherjee%20%F0%9F%91%91&text2=JAVA%20Developer%20and%20ML%20Enthusiast&width=900&height=400)
+
 
 
 <p align="center">
