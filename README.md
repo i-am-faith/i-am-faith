@@ -1,5 +1,6 @@
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sourin%20Mukherjee%20%F0%9F%91%91&text2=JAVA%20Developer%20and%20ML%20Enthusiast&width=900&height=400)
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px">
+</p>
 
 <hr>
 
