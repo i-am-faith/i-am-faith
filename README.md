@@ -10,18 +10,18 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a style="display: inline;" href="https://www.facebook.com/sourin.mukherjee833"><img width="52px" alt="Facebook" title="Facebook" src="Images/facebook.png"/></a>
+  <a style="display: inline;" href="https://www.facebook.com/sourin.mukherjee833"><img width="55px" alt="Facebook" title="Facebook" src="Images/facebook.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://www.instagram.com/i_am_faith_007" alt="Instagram"><img width="38px" title="Instagram" src="Images/instagram.png"/></a>
+  <a style="display: inline;" href="https://www.instagram.com/i_am_faith_007" alt="Instagram"><img width="41px" title="Instagram" src="Images/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="#"><img width="32px" alt="Dev.to" title=" Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://www.linkedin.com/in/sourin-mukherjee2105833/"><img width="43px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
+  <a style="display: inline;" href="https://www.linkedin.com/in/sourin-mukherjee2105833/"><img width="46px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://discord.com/users/918119603249508363"><img width="45px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
+  <a style="display: inline;" href="https://discord.com/users/918119603249508363"><img width="48px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
 </p>
 <br>
 <br>
@@ -37,8 +37,6 @@
 <img height="auto" src="https://komarev.com/ghpvc/?username=i-am-faith&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 </div>
 
-
-
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML CSS JS**
@@ -48,28 +46,25 @@
 - 📫 How to reach me **2105833@kiit.ac.in**
 
 <hr>
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtqNGhrYms0ZHFjaHNjdHgza3dyNDZ5N2k0aHcwNm10YnZyaXZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+
 
 <h2 align="left">Languages and Tools: </h2>
 <h3> Programming Languages - </h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,cs,js,ts"/>
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtqNGhrYms0ZHFjaHNjdHgza3dyNDZ5N2k0aHcwNm10YnZyaXZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3> Frontend - </h3>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
 <h3> Backend & DB - </h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql"/>
 <h3>Others - </h3>
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,firebase,figma,git,tensorflow"/>
-
-
-
+<img src="https://skillicons.dev/icons?i=aws,terraform,linux,firebase,figma,git,tensorflow"/>
 
 <hr>
 <!-- <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=radical&locale=en&hide_border=false" alt="profile-radme-generator" />
 
-
 <!-- <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-faith&theme=synthwave&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
 
 <!-- <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-faith&theme=tokyonight&hide_border=false" alt="profile-radme-generator" /> -->
 
@@ -79,4 +74,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=outrun" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-faith&theme=nightowl" />
 </p>
-
