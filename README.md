@@ -23,10 +23,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a style="display: inline;" href="https://discord.com/users/918119603249508363"><img width="48px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
 </p>
-<br>
-<br>
-<br>
 <hr>
+
 
 <p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="jokes"/> </p>
 
