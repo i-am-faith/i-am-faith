@@ -20,7 +20,7 @@
   <a style="display: inline;" href="https://www.linkedin.com/in/sourin-mukherjee2105833/"><img width="43px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href=""><img width="45px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
+  <a style="display: inline;" href="https://discord.com/users/918119603249508363"><img width="45px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
 </p>
 <br>
 <br>
