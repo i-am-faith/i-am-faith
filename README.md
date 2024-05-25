@@ -74,3 +74,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=outrun" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-faith&theme=nightowl" />
 </p>
+
+<hr>
+
+![snake gif](https://github.com/i-am-faith/i-am-faith/blob/output/github-contribution-grid-snake.gif)
