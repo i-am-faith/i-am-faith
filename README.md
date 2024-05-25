@@ -28,7 +28,7 @@
 <br>
 <hr>
 
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
+<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="jokes"/> </p>
 
 <!-- new -->
 
@@ -75,6 +75,3 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-faith&theme=nightowl" />
 </p>
 
-<hr>
-
-![snake gif](https://github.com/i-am-faith/i-am-faith/blob/output/github-contribution-grid-snake.gif)
