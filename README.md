@@ -50,15 +50,15 @@
 
 
 
-<h2 align="left">Languages and Tools: </h2>
-<h3> Programming Languages - </h3>
+<h3 align="left">Languages and Tools : </h3>
+<h4> Programming Languages - </h4>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,cs,js,ts"/>
 <img align="right" alt="coding" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtqNGhrYms0ZHFjaHNjdHgza3dyNDZ5N2k0aHcwNm10YnZyaXZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-<h3> Frontend - </h3>
+<h4> Frontend - </h4>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
-<h3> Backend & DB - </h3>
+<h4> Backend & DB - </h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql"/>
-<h3>Others - </h3>
+<h4>Others - </h4>
 <img src="https://skillicons.dev/icons?i=aws,terraform,linux,firebase,figma,git,tensorflow"/>
 
 <hr>
