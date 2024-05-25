@@ -9,18 +9,18 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a style="display: inline;" href="https://www.youtube.com/channel/UC20V2D4v8_i4Xq_5d44VdPg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a style="display: inline;" href="https://www.facebook.com/sourin.mukherjee833"><img width="52px" alt="Facebook" title="Facebook" src="Images/facebook.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://discord.com/channels/924772190036041750/924772190547771446" alt="Faith Team"><img width="32px" title="Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a style="display: inline;" href="https://www.instagram.com/i_am_faith_007" alt="Instagram"><img width="38px" title="Instagram" src="Images/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="#"><img width="32px" alt="Dev.to" title=" Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a style="display: inline;" href="https://www.linkedin.com/in/sourin-mukherjee2105833/"><img width="43px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://reayou.club//#/register?r_code=60C6C571"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a style="display: inline;" href=""><img width="45px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
 </p>
 <br>
 <br>
