@@ -1,7 +1,6 @@
-
-
-![Intro](https://imgur.com/JEKH2k4.gif)
-
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px">
+</p>
 
 <hr>
 
