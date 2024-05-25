@@ -50,7 +50,17 @@
 <hr>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtqNGhrYms0ZHFjaHNjdHgza3dyNDZ5N2k0aHcwNm10YnZyaXZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://getbootstrap.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="android" width="40" height="40"/> </a></p>
+<h2 align="left">Languages and Tools: </h2>
+<h3> Programming Languages - </h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,cs,js,ts"/>
+<h3> Frontend - </h3>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
+<h3> Backend & DB - </h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql"/>
+<h3>Others - </h3>
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,firebase,figma,git,tensorflow"/>
+
+
 
 
 <hr>
