@@ -53,11 +53,11 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,cs,js,ts"/>
 <img align="right" alt="coding" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtqNGhrYms0ZHFjaHNjdHgza3dyNDZ5N2k0aHcwNm10YnZyaXZvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <h4> Frontend - </h4>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,heroku,netlify"/>
 <h4> Backend & DB - </h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql"/>
 <h4>Others - </h4>
-<img src="https://skillicons.dev/icons?i=aws,terraform,linux,firebase,figma,git,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,linux,firebase,figma,git,tensorflow,idea"/>
 
 <hr>
 <!-- <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=radical&locale=en&hide_border=false" alt="profile-radme-generator" />
