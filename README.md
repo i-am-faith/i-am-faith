@@ -35,9 +35,9 @@
 <img height="auto" src="https://komarev.com/ghpvc/?username=i-am-faith&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 </div>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **HTML CSS JS**
+- 💬 Ask me about **Machine Learning**
 
 - 😂 Fun Fact **Bats are the only mammal that can actually fly.**
 
