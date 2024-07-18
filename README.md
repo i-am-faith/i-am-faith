@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ritika_cutie.gif" width="1080px">
+  <img src="https://imgur.com/64S8nlU.gif" width="1080px">
 </p>
 
 
