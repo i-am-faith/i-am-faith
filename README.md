@@ -62,11 +62,7 @@
 <img src="https://skillicons.dev/icons?i=aws,terraform,linux,firebase,figma,git,tensorflow,idea"/>
 
 <hr>
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=i-am-faith&show_icons=true&theme=radical&locale=en&hide_border=false" alt="profile-radme-generator" />
 
- <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-faith&theme=synthwave&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
- <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-faith&theme=tokyonight&hide_border=false" alt="profile-radme-generator" /> -->
 
 <img align="right" alt="coding" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-faith&theme=algolia&hide_border=false">
 
