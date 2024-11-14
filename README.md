@@ -1,6 +1,6 @@
 <p align="center">
 <!--   neon -->
-<!--   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px"> -->
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px">
 <!--   work shifting -->
 <!--   <img src="https://imgur.com/G3F9oP7.gif" width="1080px"> -->
 <!--   Mario -->
@@ -22,7 +22,7 @@
 <!--   Coding Dark -->
 <!--   <img src="https://imgur.com/1wkjfrG.gif" width="1080px"> -->
 <!--   founding titan -->
-  <img src="https://imgur.com/64S8nlU.gif" width="1080px">
+<!--   <img src="https://imgur.com/64S8nlU.gif" width="1080px"> -->
 </p>
 
 
