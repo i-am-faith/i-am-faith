@@ -1,6 +1,6 @@
 <p align="center">
 <!--   neon -->
-<!--   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px"> -->
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px">
 <!--   work shifting -->
 <!--   <img src="https://imgur.com/G3F9oP7.gif" width="1080px"> -->
 <!--   Mario -->
@@ -18,7 +18,7 @@
 <!--   Intern Coder Song -->
 <!--   <img src="https://imgur.com/uC6Vy6o.gif" width="1080px"> -->
 <!--   Duck -->
-  <img src="https://imgur.com/BoJryZH.gif" width="1080px">
+<!--   <img src="https://imgur.com/BoJryZH.gif" width="1080px"> -->
 <!--   Coding Dark -->
 <!--   <img src="https://imgur.com/1wkjfrG.gif" width="1080px"> -->
 <!--   founding titan -->
