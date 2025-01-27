@@ -60,13 +60,13 @@
 <img height="auto" src="https://komarev.com/ghpvc/?username=i-am-faith&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
 </div>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **Machine Learning**
 
 - 😂 Fun Fact :- **Bats are the only mammal that can actually fly.**
 
-- 📫 How to reach me **2105833@kiit.ac.in**
+- 📫 How to reach me **<a href="mailto:sourin.mukherjee2580@gmail.com">sourin.mukherjee2580@gmail.com</a>**
 
 <hr>
 
