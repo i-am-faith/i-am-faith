@@ -94,3 +94,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-faith&theme=nightowl" />
 </p>
 
+<hr>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i-am-faith)](https://github.com/ashutosh00710/github-readme-activity-graph)
