@@ -95,4 +95,6 @@
 </p>
 
 <hr>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i-am-faith)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-faith&theme=tokyo-night&hide_border=true" alt="Activity graph">
+</a>
