@@ -1,3 +1,8 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/i-am-faith/count.svg" alt="Visitor's Count" />
+</div>
+
 <p align="center">
 <!--   neon -->
   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px">
@@ -56,10 +61,7 @@
 <!-- new -->
 
 <!-- profile view -->
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/i-am-faith/count.svg" alt="Visitor's Count" />
-</div>
+
 
 - 🌱 I’m currently learning **Flask**
 
