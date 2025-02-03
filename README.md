@@ -1,6 +1,6 @@
 <p align="center">
 <!--   neon -->
-  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px">
+<!--   <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1080px"> -->
 <!--   work shifting -->
 <!--   <img src="https://imgur.com/G3F9oP7.gif" width="1080px"> -->
 <!--   Mario -->
@@ -14,7 +14,7 @@
 <!--   Ghost -->
 <!--   <img src="https://imgur.com/gowZUaU.gif" width="1080px"> -->
 <!--   Headphone Guy -->
-<!--   <img src="https://imgur.com/kGS4a7M.gif" width="1080px"> -->
+  <img src="https://imgur.com/kGS4a7M.gif" width="1080px">
 <!--   Intern Coder Song -->
 <!--   <img src="https://imgur.com/uC6Vy6o.gif" width="1080px"> -->
 <!--   Duck -->
