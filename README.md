@@ -6,7 +6,7 @@
 <!--   Mario -->
 <!--   <img src="https://imgur.com/tsaIqsw.gif" width="1080px"> -->
 <!--   rain coder -->
-<!--   <img src="https://imgur.com/LPozK8i.gif" width="1080px"> -->
+  <img src="https://imgur.com/LPozK8i.gif" width="1080px">
 <!--   Working animation big guy -->
 <!--   <img src="https://imgur.com/Vj0QNCd.gif" width="1080px"> -->
 <!--   HTML Coder -->
@@ -18,7 +18,7 @@
 <!--   Intern Coder Song -->
 <!--   <img src="https://imgur.com/uC6Vy6o.gif" width="1080px"> -->
 <!--   Duck -->
-  <img src="https://imgur.com/BoJryZH.gif" width="1080px">
+<!--   <img src="https://imgur.com/BoJryZH.gif" width="1080px"> -->
 <!--   Coding Dark -->
 <!--   <img src="https://imgur.com/1wkjfrG.gif" width="1080px"> -->
 <!--   founding titan -->
