@@ -6,7 +6,7 @@
 <!--   Mario -->
 <!--   <img src="https://imgur.com/tsaIqsw.gif" width="1080px"> -->
 <!--   rain coder -->
-  <img src="https://imgur.com/LPozK8i.gif" width="1080px">
+<!--   <img src="https://imgur.com/LPozK8i.gif" width="1080px"> -->
 <!--   Working animation big guy -->
 <!--   <img src="https://imgur.com/Vj0QNCd.gif" width="1080px"> -->
 <!--   HTML Coder -->
@@ -14,7 +14,7 @@
 <!--   Ghost -->
 <!--   <img src="https://imgur.com/gowZUaU.gif" width="1080px"> -->
 <!--   Headphone Guy -->
-<!--   <img src="https://imgur.com/kGS4a7M.gif" width="1080px"> -->
+  <img src="https://imgur.com/kGS4a7M.gif" width="1080px">
 <!--   Intern Coder Song -->
 <!--   <img src="https://imgur.com/uC6Vy6o.gif" width="1080px"> -->
 <!--   Duck -->
