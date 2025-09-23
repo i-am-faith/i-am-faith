@@ -18,13 +18,13 @@
 <!--   Intern Coder Song -->
 <!--   <img src="https://imgur.com/uC6Vy6o.gif" width="1080px"> -->
 <!--   Duck -->
-  <img src="https://imgur.com/BoJryZH.gif" width="1080px">
+  <!-- <img src="https://imgur.com/BoJryZH.gif" width="1080px"> -->
 <!--   Coding Dark -->
 <!--   <img src="https://imgur.com/1wkjfrG.gif" width="1080px"> -->
 <!--   founding titan -->
 <!--   <img src="https://imgur.com/64S8nlU.gif" width="1080px"> -->  
 <!-- UI/UX Developer -->
-<!-- <img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1758655688/UIX_GIF_nbujwq.gif" width="1080px"> -->
+<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1758655688/UIX_GIF_nbujwq.gif" width="1080px">
 </p>
 
 
