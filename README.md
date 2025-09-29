@@ -6,7 +6,7 @@
 <!--   Mario -->
 <!--   <img src="https://imgur.com/tsaIqsw.gif" width="1080px"> -->
 <!--   rain coder -->
-<!--   <img src="https://imgur.com/LPozK8i.gif" width="1080px"> -->
+  <img src="https://imgur.com/LPozK8i.gif" width="1080px">
 <!--   Working animation big guy -->
 <!--   <img src="https://imgur.com/Vj0QNCd.gif" width="1080px"> -->
 <!--   HTML Coder -->
@@ -24,7 +24,7 @@
 <!--   founding titan -->
 <!--   <img src="https://imgur.com/64S8nlU.gif" width="1080px"> -->  
 <!-- UI/UX Developer -->
-<img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1758655688/UIX_GIF_nbujwq.gif" width="1080px">
+<!-- <img src="https://res.cloudinary.com/dcs2ww2g5/image/upload/v1758655688/UIX_GIF_nbujwq.gif" width="1080px"> -->
 </p>
 
 
